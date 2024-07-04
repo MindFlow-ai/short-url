@@ -17,7 +17,7 @@ And on GitHub trending!
 
 ## 👨‍🏫 Demo
 
-1. [ccb.wtf/1](https://ccb.wtf/1) should link to this repo.
+1. [ccb.wtf/1]([https://short.mindflow.com.cn/{issue_id}](https://short.mindflow.com.cn/{issue_id})) should link to this repo.
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
